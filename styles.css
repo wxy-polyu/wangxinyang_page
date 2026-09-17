@@ -217,8 +217,8 @@ body {
 
 .profile-frame {
   position: relative;
-  width: min(100%, 20rem);
-  aspect-ratio: 1;
+  width: min(100%, 18rem);
+  aspect-ratio: 3 / 4;
   overflow: hidden;
   border-radius: 1.75rem;
   border: 1px solid rgba(31, 77, 69, 0.12);
@@ -230,6 +230,7 @@ body {
   height: 100%;
   width: 100%;
   object-fit: cover;
+  object-position: center top;
 }
 
 .profile-fallback {

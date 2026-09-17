@@ -78,6 +78,7 @@ During the internship, Wang Xinyang served as a frontend development intern. Dur
 
 ## Links / 链接
 
+- Live site / 在线主页: https://wxy-polyu.github.io/wangxinyang_page/
 - Personal Blog: http://blog.umberk.cn/
 - Personal GitHub: https://github.com/Umberk
 - PolyU GitHub: https://github.com/wxy-polyu
