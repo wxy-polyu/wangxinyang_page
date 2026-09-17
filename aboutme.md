@@ -64,16 +64,18 @@ During the internship, Wang Xinyang served as a frontend development intern. Dur
 
 ## Projects / 项目
 
-本科博客 http://blog.umberk.cn/ 中展示的项目：
+本科博客与在线产品：
 
+- IntelliEdu（2026）：https://intelliedu.umberk.cn/
+- Visual Speak（2026）：https://visualspeak.umberk.cn/
 - Echo 24h付费自习室管理系统（毕业设计）
-- 2048 经典游戏：https://umberk.github.io/2048game/ ，源码 https://github.com/Umberk/2048game
-- 图书管理系统：http://books.umberk.cn ，源码 https://github.com/Umberk/library-management-system
-- 学生选课管理系统：http://course.umberk.cn ，源码 https://github.com/Umberk/Student-Course-Selection-System
+- 智能写作IDE - 词库模块
 - 基金数据分析可视化系统：https://github.com/Umberk/FundCrawler
 - 招聘网站就业信息分析：https://github.com/Umberk/Analysis-of-Employment
+- 学生选课管理系统：http://course.umberk.cn ，源码 https://github.com/Umberk/Student-Course-Selection-System
 - 智慧社区服务小程序
-- 智能写作IDE - 词库模块
+- 图书管理系统：http://books.umberk.cn ，源码 https://github.com/Umberk/library-management-system
+- 2048 经典游戏：https://umberk.github.io/2048game/ ，源码 https://github.com/Umberk/2048game
 - 个人博客：http://blog.umberk.cn/
 
 ## Links / 链接

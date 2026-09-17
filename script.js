@@ -14,7 +14,7 @@ const translations = {
     "hero.eyebrow": "MSc Information Technology",
     "hero.role": "MSc student in Information Technology at The Hong Kong Polytechnic University",
     "hero.intro":
-      "Frontend intern at Jinmen Finance (进门财经). Undergraduate software engineering projects include web systems, data analysis, games, and WeChat mini programs.",
+      "Frontend intern at Jinmen Finance (进门财经). Recent work includes 2026 education products IntelliEdu and Visual Speak, plus undergraduate web, data, game, and mini-program projects.",
     "hero.photoAlt": "Portrait of Wang Xinyang",
     "hero.contact": "Email me",
     "hero.projects": "View projects",
@@ -23,7 +23,7 @@ const translations = {
     "about.body":
       "Wang Xinyang is an MSc student in Information Technology at The Hong Kong Polytechnic University, and studied Software Engineering at Ningxia University (class of 2022). Interests include frontend engineering, web application development, data analysis, and practical software products.",
     "about.body2":
-      "Wang Xinyang completed a frontend internship at Jinmen Finance (进门财经), and independently built or led several undergraduate projects: a C-based 2048 game, Spring Boot library and course-selection systems, Hadoop employment-data analysis, a fund-data visualization platform, and Echo, a full-stack 24-hour study-room system created as a graduation project.",
+      "Wang Xinyang completed a frontend internship at Jinmen Finance (进门财经). Recent products include IntelliEdu, an AI-supported school management system, and Visual Speak, an English speaking practice site (2026). Earlier undergraduate work includes a C-based 2048 game, Spring Boot library and course-selection systems, Hadoop employment-data analysis, a fund-data visualization platform, and Echo, a full-stack 24-hour study-room system created as a graduation project.",
     "education.title": "Education",
     "education.msc.level": "Graduate",
     "education.msc.degree": "Master of Science in Information Technology",
@@ -58,10 +58,20 @@ const translations = {
       "During the internship, Wang Xinyang served as a frontend development intern. During this period, Wang Xinyang was diligent, responsible, and proactive in asking mentors for help when needed. Wang Xinyang thought carefully and completed assigned tasks on time and to a high standard. Overall performance was excellent. The code was well structured, and Wang Xinyang demonstrated strong teamwork and independent problem-solving abilities.",
     "projects.title": "Projects",
     "projects.lead":
-      "Selected work from undergraduate study and training, collected on the personal blog. Live demos and source links below come from that site and GitHub.",
+      "Projects are listed newest first, including 2026 web products and earlier undergraduate work. Live demos and source links come from the deployed sites and GitHub.",
     "projects.demo": "Live demo",
     "projects.source": "Source code",
     "projects.featured": "Featured",
+    "projects.intelliedu.kicker": "Education product",
+    "projects.intelliedu.title": "IntelliEdu",
+    "projects.intelliedu.desc":
+      "An AI-supported classroom and school management system. Users sign in or register as a school leader (leadership) or a teacher (classroom) to manage school and classroom workflows.",
+    "projects.intelliedu.meta": "2026 · Live at intelliedu.umberk.cn",
+    "projects.visualspeak.kicker": "English speaking",
+    "projects.visualspeak.title": "Visual Speak",
+    "projects.visualspeak.desc":
+      "An English speaking practice product: describe a process in order with pictures, without writing. The flow is choose and arrange pictures, answer thinking questions, speak and record, then submit for teacher feedback.",
+    "projects.visualspeak.meta": "2026 · Live at visualspeak.umberk.cn",
     "projects.echo.kicker": "Graduation project",
     "projects.echo.title": "Echo 24h Paid Study Room System",
     "projects.echo.desc":
@@ -130,7 +140,7 @@ const translations = {
     "hero.eyebrow": "信息技术理学硕士",
     "hero.role": "香港理工大学信息技术专业硕士研究生",
     "hero.intro":
-      "曾在进门财经担任前端开发实习生。本科软件工程项目覆盖 Web 系统、数据分析、游戏与微信小程序。",
+      "曾在进门财经担任前端开发实习生。近期作品包括 2026 年教育产品 IntelliEdu 与 Visual Speak，以及本科阶段的 Web、数据分析、游戏与小程序项目。",
     "hero.photoAlt": "王心阳的照片",
     "hero.contact": "发送邮件",
     "hero.projects": "查看项目",
@@ -139,7 +149,7 @@ const translations = {
     "about.body":
       "王心阳目前是香港理工大学信息技术专业硕士研究生，本科就读于宁夏大学软件工程专业（22 级）。关注前端工程、Web 应用开发、数据分析以及实用型软件产品。",
     "about.body2":
-      "他曾在进门财经担任前端开发实习生，并独立或主导完成多项本科项目：基于 C 语言的 2048 游戏，Spring Boot 图书管理与学生选课系统，Hadoop 招聘数据分析，基金数据可视化平台，以及毕业设计 Echo 24h 付费自习室全栈系统。",
+      "他曾在进门财经担任前端开发实习生。近期作品包括 AI 辅助学校管理系统 IntelliEdu，以及英语口语练习产品 Visual Speak（2026）。本科阶段还完成了基于 C 语言的 2048 游戏、Spring Boot 图书管理与学生选课系统、Hadoop 招聘数据分析、基金数据可视化平台，以及毕业设计 Echo 24h 付费自习室全栈系统。",
     "education.title": "教育经历",
     "education.msc.level": "研究生",
     "education.msc.degree": "信息技术专业硕士",
@@ -174,10 +184,20 @@ const translations = {
       "该同学在实习期间担任前端开发实习生，工作勤奋踏实、认真负责，遇到不懂的问题能虚心向前辈请教，善于思考，能保质保量完成所分配的工作任务。整体表现优秀，代码规范，具备良好的团队协作意识和独立解决问题的能力，能够胜任前端开发相关工作。",
     "projects.title": "项目",
     "projects.lead":
-      "以下作品来自本科阶段学习与实训，整理自个人博客。在线演示与源码链接均来自该站点及 GitHub，未额外编造项目。",
+      "项目按时间倒序排列，包含 2026 年的在线产品和更早的本科作品。在线演示与源码来自已部署站点及 GitHub。",
     "projects.demo": "在线演示",
     "projects.source": "查看源码",
     "projects.featured": "代表作",
+    "projects.intelliedu.kicker": "教育产品",
+    "projects.intelliedu.title": "IntelliEdu",
+    "projects.intelliedu.desc":
+      "AI 辅助的课堂与学校管理系统。支持以学校管理者（Leadership）或教师（Classroom）身份登录/注册，开展学校管理与课堂教学相关工作。",
+    "projects.intelliedu.meta": "2026 · intelliedu.umberk.cn",
+    "projects.visualspeak.kicker": "英语口语",
+    "projects.visualspeak.title": "Visual Speak",
+    "projects.visualspeak.desc":
+      "英语口语练习产品：看图、思考，按顺序描述过程，无需写作。流程为选题/排图、思考问答、开口录音，再提交给教师获取反馈。",
+    "projects.visualspeak.meta": "2026 · visualspeak.umberk.cn",
     "projects.echo.kicker": "毕业设计",
     "projects.echo.title": "Echo 24h 付费自习室管理系统",
     "projects.echo.desc":
@@ -235,71 +255,96 @@ const translations = {
 
 const PROJECTS = [
   {
-    id: "echo",
+    id: "intelliedu",
     featured: true,
+    date: "2026",
+    tags: ["AI", "Education", "Web"],
+    demo: "https://intelliedu.umberk.cn/",
+    source: null,
+  },
+  {
+    id: "visualspeak",
+    featured: true,
+    date: "2026",
+    tags: ["English", "Education", "Web"],
+    demo: "https://visualspeak.umberk.cn/",
+    source: null,
+  },
+  {
+    id: "echo",
+    featured: false,
+    date: "2025-11",
     tags: ["WeChat Mini Program", "Node.js", "Vue 3", "MySQL", "Element Plus"],
     demo: null,
     source: "https://github.com/Umberk/echo-backend",
   },
   {
-    id: "game",
-    featured: false,
-    tags: ["C", "HTML5", "JavaScript"],
-    demo: "https://umberk.github.io/2048game/",
-    source: "https://github.com/Umberk/2048game",
-  },
-  {
-    id: "library",
-    featured: false,
-    tags: ["Spring Boot", "MyBatis", "Docker", "Nginx"],
-    demo: "http://books.umberk.cn",
-    source: "https://github.com/Umberk/library-management-system",
-  },
-  {
-    id: "course",
-    featured: false,
-    tags: ["Spring Boot", "MyBatis", "Layui"],
-    demo: "http://course.umberk.cn",
-    source: "https://github.com/Umberk/Student-Course-Selection-System",
-  },
-  {
     id: "fund",
     featured: false,
+    date: "2025-07",
     tags: ["Python", "Flask", "ECharts"],
     demo: null,
     source: "https://github.com/Umberk/FundCrawler",
   },
   {
-    id: "jobs",
-    featured: false,
-    tags: ["Hadoop", "MapReduce", "Python", "ECharts"],
-    demo: null,
-    source: "https://github.com/Umberk/Analysis-of-Employment",
-  },
-  {
-    id: "community",
-    featured: false,
-    tags: ["WeChat Mini Program", "Spring Boot", "MyBatis"],
-    demo: null,
-    source: null,
-  },
-  {
     id: "ide",
     featured: false,
+    date: "2025-06",
     tags: ["Backend", "NLP"],
     demo: null,
     source: null,
   },
   {
+    id: "jobs",
+    featured: false,
+    date: "2025-01",
+    tags: ["Hadoop", "MapReduce", "Python", "ECharts"],
+    demo: null,
+    source: "https://github.com/Umberk/Analysis-of-Employment",
+  },
+  {
+    id: "course",
+    featured: false,
+    date: "2024-07",
+    tags: ["Spring Boot", "MyBatis", "Layui"],
+    demo: "http://course.umberk.cn",
+    source: "https://github.com/Umberk/Student-Course-Selection-System",
+  },
+  {
+    id: "community",
+    featured: false,
+    date: "2024-03",
+    tags: ["WeChat Mini Program", "Spring Boot", "MyBatis"],
+    demo: null,
+    source: null,
+  },
+  {
+    id: "library",
+    featured: false,
+    date: "2024-01",
+    tags: ["Spring Boot", "MyBatis", "Docker", "Nginx"],
+    demo: "http://books.umberk.cn",
+    source: "https://github.com/Umberk/library-management-system",
+  },
+  {
+    id: "game",
+    featured: false,
+    date: "2023-07",
+    tags: ["C", "HTML5", "JavaScript"],
+    demo: "https://umberk.github.io/2048game/",
+    source: "https://github.com/Umberk/2048game",
+  },
+  {
     id: "blog",
     featured: false,
+    date: "2023-01",
     tags: ["HTML5", "CSS3", "JavaScript"],
     demo: "http://blog.umberk.cn/",
     source: "https://github.com/Umberk/blog",
   },
 ];
 
-const LANG_KEY = "lang";
+const LANG_KEY = "homepage-lang";
 const menuToggle = document.getElementById("menu-toggle");
 const mobileMenu = document.getElementById("mobile-menu");
 const profilePhoto = document.getElementById("profile-photo");
@@ -321,8 +366,7 @@ function getInitialLanguage() {
   if (saved === "zh" || saved === "en") {
     return saved;
   }
-  const browserLang = (navigator.language || navigator.userLanguage || "en").toLowerCase();
-  return browserLang.startsWith("zh") ? "zh" : "en";
+  return "en";
 }
 
 function createExternalLink(href, label, className) {
@@ -338,7 +382,9 @@ function createExternalLink(href, label, className) {
 function renderProjects(lang) {
   projectGrid.replaceChildren();
 
-  PROJECTS.forEach((project) => {
+  const ordered = [...PROJECTS].sort((a, b) => b.date.localeCompare(a.date));
+
+  ordered.forEach((project) => {
     const card = document.createElement("article");
     card.className = `project-card section-card${project.featured ? " featured" : ""}`;
 

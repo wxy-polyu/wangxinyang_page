@@ -12,7 +12,7 @@ COMP5241 Week 2 作业：一份静态、响应式、中英双语个人主页。
 
 - 单页介绍：首页、关于、教育、技能、实习经历、项目、联系
 - 导航栏语言切换：**中文** / **English**
-- 所选语言写入 `localStorage`；首次访问时，浏览器语言以 `zh` 开头则使用中文，否则使用英文
+- 所选语言写入 `localStorage`；首次访问默认英文，可在导航栏切换为中文
 - 桌面端粘性导航；移动端汉堡菜单
 - 项目卡片来自本科博客 [blog.umberk.cn](http://blog.umberk.cn/)，含演示与源码链接
 - 个人照片使用根目录 `profile-photo.jpg`；图片缺失时显示姓名首字母 WX
@@ -47,7 +47,7 @@ python3 -m http.server 8765
 
 可翻译文案集中在 `script.js` 的 `translations` 对象中。`index.html` 通过 `data-i18n` 绑定文案。
 
-- 语言偏好键名：`localStorage.lang`，值为 `zh` 或 `en`
+- 语言偏好键名：`localStorage.homepage-lang`，值为 `zh` 或 `en`；未保存时默认英文
 - 切换语言时会更新页面文字、`document.title` 和 `<html lang>`
 - 项目列表由 `script.js` 中的 `PROJECTS` 数组渲染，标题与介绍同样走翻译表
 
